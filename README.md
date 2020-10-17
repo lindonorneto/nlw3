@@ -7,7 +7,7 @@ Trilha OmniStack - Nex Level Week 3 - RocketSeat
  - Node - Express
  - Sqlite
 ## What you need to have installed ?
- - node > 12
+ - node >= 12
  - npm or yarn
 ## How to install Happy ?
   ### Front-end
